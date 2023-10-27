@@ -1,0 +1,6 @@
+accelerate==0.23.0
+faiss-cpu==1.7.4
+transformers==4.34.0
+datasets==2.14.5
+pyserini==0.22.0
+matplotlib==3.7.3
