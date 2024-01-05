@@ -2,9 +2,9 @@
 
 ## Installation
 
-Create a conda environment, e.g., Python version 3.8.
+Create a conda environment, e.g., Python version 3.10. (pyserini need)
 ```bash
-conda create --name bnir python=3.8
+conda create --name bnir python=3.10
 ```
 
 Activate the environment and install PyTorch, e.g., for CUDA 11.8.
